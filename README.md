@@ -1,7 +1,4 @@
 In this project a **Nxt Trendz - Cart Features** build by applying the concepts that I learned till now.
-
-
-
 <br/>
 <br/>
 
