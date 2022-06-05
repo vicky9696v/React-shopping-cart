@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.checkout-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  margin: 5px;
+}
+.checkout-button {
+  color: #ffffff;
+  background-color: #0b69ff;
+  width: 150px;
+  height: 34px;
+  outline: none;
+  cursor: pointer;
+  border: transparent;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+.total-amount-text {
+  font-weight: 700;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
